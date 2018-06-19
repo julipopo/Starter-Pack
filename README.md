@@ -1,2 +1,2 @@
-# Starter-Pack
+# Starter-Project
 Utils to start swift ios project
